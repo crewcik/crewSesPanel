@@ -1,0 +1,5 @@
+<meta>
+	<info author="Crew" version="1.0" type="script" name="Crew ses sistemi" description="/ses sistemi scriptti!" />
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+</meta>
